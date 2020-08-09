@@ -1,0 +1,21 @@
+*{
+  background-color: lightgray;
+}
+nav a {
+  color: blue;
+}
+
+#logo {
+  height: 15px;
+  width: 20px;
+}
+
+nav a:hover {
+  color: darkblue;
+}
+
+#navigation{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
